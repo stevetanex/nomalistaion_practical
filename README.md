@@ -1,0 +1,2 @@
+# nomalistaion_practical
+implemented normaisation techniques
